@@ -16,7 +16,7 @@ In order to use it you will have to
 
 ## Test
 You can run tests 
-A link to the video running the [application](https://youtu.be/lmsB-_nGdE8)
+A link to the video running the [application]()
 
 ## Contact
 Email me at: vic.solis.maria@gmail.com
